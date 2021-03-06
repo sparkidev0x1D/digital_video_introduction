@@ -415,7 +415,7 @@ Iフレーム(参照、キーフレーム、イントラ)は**自己完結的な
 > * **コンテンツ料金** (収入の0.5%)
 > * **h264より10倍高い単位あたり料金**
 >
-> [alliance for open media](http://aomedia.org/about-us/)はハードウェアメーカー(Intel、AMD、ARM、Nvidia、Cisco)、コンテンツ配信 (Google、Netflix、Amazon)、ブラウザ開発(Google, Mozilla)、その他の会社によって作られました。
+> [alliance for open media](http://aomedia.org/about/)はハードウェアメーカー(Intel、AMD、ARM、Nvidia、Cisco)、コンテンツ配信 (Google、Netflix、Amazon)、ブラウザ開発(Google, Mozilla)、その他の会社によって作られました。
 >
 > これらの会社にはロイヤリティーフリーのビデオコーデックという共通の目的があり、AV1はより [簡単な特許ライセンス](http://aomedia.org/license/patent/)で誕生しました。**Timothy B. Terriberry**が [AV1の概念、ライセンスモデル、現状](https://www.youtube.com/watch?v=lzPaldsmJbk)についての素晴らしいプレゼンテーションを行いました。この節はこのプレゼンテーションを元に書いています。
 >
@@ -754,7 +754,7 @@ HEVCはAVCに比べて、より大きく、より多くの**パーティショ�
 
 #### What?
 
-DRMはデジタル著作権管理を意味します。それは、例えばデジタルビデオやオーディオなどの**デジタルメディアに著作権保護を提供する**方法です。それは多くの場所で使われていますが、[広くは受け入れられていません](https://en.wikipedia.org/wiki/Digital_rights_management#DRM-free_works)。
+DRMは[Digital rights management(デジタル著作権管理)](https://sander.saares.eu/categories/drm-is-not-a-black-box/)を意味します。これは、ビデオやオーディオなどの**デジタルメディアに著作権保護を提供する**方法です。多くの場所で使われていますが、[広くは受け入れられていません](https://en.wikipedia.org/wiki/Digital_rights_management#DRM-free_works)。
 
 #### Why?
 
@@ -923,3 +923,4 @@ DRMの抽象的で一般的な形式を、とても単純な方法で説明し�
 * https://www.youtube.com/watch?v=Lto-ajuqW3w&list=PLzH6n4zXuckpKAj1_88VS-8Z6yn9zX_P6
 * https://www.youtube.com/watch?v=LWxu4rkZBLw
 * https://web.stanford.edu/class/ee398a/handouts/lectures/EE398a_MotionEstimation_2012.pdf
+* https://sander.saares.eu/categories/drm-is-not-a-black-box/

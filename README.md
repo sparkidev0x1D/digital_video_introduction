@@ -439,7 +439,7 @@ In 2003 the first version of **H.264/AVC** was completed. In the same year, a co
 > * **content fee** (0.5% of revenue) and
 > * **per-unit fees about 10 times higher than h264**.
 >
-> The [alliance for open media](http://aomedia.org/about-us/) was created by companies from hardware manufacturer (Intel, AMD, ARM , Nvidia, Cisco), content delivery (Google, Netflix, Amazon), browser maintainers (Google, Mozilla), and others.
+> The [alliance for open media](http://aomedia.org/about/) was created by companies from hardware manufacturer (Intel, AMD, ARM , Nvidia, Cisco), content delivery (Google, Netflix, Amazon), browser maintainers (Google, Mozilla), and others.
 >
 > The companies had a common goal, a royalty-free video codec and then AV1 was born with a much [simpler patent license](http://aomedia.org/license/patent/). **Timothy B. Terriberry** did an awesome presentation, which is the source of this section, about the [AV1 conception, license model and its current state](https://www.youtube.com/watch?v=lzPaldsmJbk).
 >
@@ -784,7 +784,7 @@ In real life production systems, people often use both techniques to provide aut
 
 #### What?
 
-DRM means Digital rights management, it's a way **to provide copyright protection for digital media**, for instance, digital video and audio. Although it's used in many places [it's not universally accepted](https://en.wikipedia.org/wiki/Digital_rights_management#DRM-free_works).
+DRM means [Digital rights management](https://sander.saares.eu/categories/drm-is-not-a-black-box/), it's a way **to provide copyright protection for digital media**, for instance, digital video and audio. Although it's used in many places [it's not universally accepted](https://en.wikipedia.org/wiki/Digital_rights_management#DRM-free_works).
 
 #### Why?
 
@@ -964,3 +964,4 @@ Miscellaneous:
 * https://www.youtube.com/watch?v=Lto-ajuqW3w&list=PLzH6n4zXuckpKAj1_88VS-8Z6yn9zX_P6
 * https://www.youtube.com/watch?v=LWxu4rkZBLw
 * https://web.stanford.edu/class/ee398a/handouts/lectures/EE398a_MotionEstimation_2012.pdf
+* https://sander.saares.eu/categories/drm-is-not-a-black-box/
