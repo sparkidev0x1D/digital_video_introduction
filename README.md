@@ -3,6 +3,7 @@
 [🇮🇹](/README-it.md "Italian")
 [🇰🇷](/README-ko.md "Korean")
 [🇷🇺](/README-ru.md "Russian")
+[🇧🇷](/README-pt.md "Portuguese")
 
 [![license](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)
 
@@ -29,6 +30,7 @@ All the **hands-on should be performed from the folder you cloned** this reposit
 * released version 1.0.0
 * added simplified Chinese translation
 * added FFmpeg oscilloscope filter example
+* added Brazilian Portuguese translation
 
 # Index
 
