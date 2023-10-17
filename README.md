@@ -1,9 +1,11 @@
+[🇺🇸](/README.md "English")
 [🇨🇳](/README-cn.md "Simplified Chinese")
 [🇯🇵](/README-ja.md "Japanese")
 [🇮🇹](/README-it.md "Italian")
 [🇰🇷](/README-ko.md "Korean")
 [🇷🇺](/README-ru.md "Russian")
 [🇧🇷](/README-pt.md "Portuguese")
+[🇪🇸](/README-es.md "Spanish")
 
 [![license](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)
 
@@ -31,6 +33,7 @@ All the **hands-on should be performed from the folder you cloned** this reposit
 * added simplified Chinese translation
 * added FFmpeg oscilloscope filter example
 * added Brazilian Portuguese translation
+* added Spanish translation
 
 # Index
 
@@ -402,7 +405,7 @@ Our **prediction can be wrong**, for that reason we need to apply this technique
 There are many different types of this sort of prediction. The one you see pictured here is a form of straight planar prediction, where the pixels from the row above the block are copied row to row within the block. Planar prediction also can involve an angular component, where pixels from both the left and the top are used to help predict the current block. And there is also DC prediction, which involves taking the average of the samples right above and to the left of the block. 
 
 > #### Hands-on: Check intra predictions
-> You can [generate a video with macro blocks and their predictions with ffmpeg.](/encoding_pratical_examples.md#generate-debug-video) Please check the ffmpeg documentation to understand the [meaning of each block color](https://trac.ffmpeg.org/wiki/Debug/MacroblocksAndMotionVectors#AnalyzingMacroblockTypes).
+> You can [generate a video with macro blocks and their predictions with ffmpeg.](/encoding_pratical_examples.md#generate-debug-video) Please check the ffmpeg documentation to understand the [meaning of each block color](https://trac.ffmpeg.org/wiki/Debug/MacroblocksAndMotionVectors?version=7#AnalyzingMacroblockTypes).
 >
 > ![intra prediction (macro blocks) with ffmpeg](/i/macro_blocks_ffmpeg.png "inter prediction (motion vectors) with ffmpeg")
 >

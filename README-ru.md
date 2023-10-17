@@ -1,8 +1,11 @@
+[🇺🇸](/README.md "English")
 [🇨🇳](/README-cn.md "Simplified Chinese")
 [🇯🇵](/README-ja.md "Japanese")
 [🇮🇹](/README-it.md "Italian")
 [🇰🇷](/README-ko.md "Korean")
 [🇷🇺](/README-ru.md "Russian")
+[🇧🇷](/README-pt.md "Portuguese")
+[🇪🇸](/README-es.md "Spanish")
 
 [![license](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)
 
@@ -390,7 +393,7 @@ P-кадр пользуется фактом, что почти всегда м�
 ![](/i/smw_residual.png)
 
 > #### Практика: проверка внутренних предсказаний
-> Вы можете [зделать видео с макро разделами и их предскозаниями в ffmpeg.](/encoding_pratical_examples.md#generate-debug-video) Пожалуйста проверите документацию ffmpeg что бы понять [значение каждего блока цвета](https://trac.ffmpeg.org/wiki/Debug/MacroblocksAndMotionVectors#AnalyzingMacroblockTypes).
+> Вы можете [зделать видео с макро разделами и их предскозаниями в ffmpeg.](/encoding_pratical_examples.md#generate-debug-video) Пожалуйста проверите документацию ffmpeg что бы понять [значение каждего блока цвета](https://trac.ffmpeg.org/wiki/Debug/MacroblocksAndMotionVectors?version=7#AnalyzingMacroblockTypes).
 >
 > ![внутринее предсказания (макро разделы) с ffmpeg](/i/macro_blocks_ffmpeg.png "внутринее предсказания (макро разделы) с ffmpeg")
 >
